@@ -1,0 +1,38 @@
+﻿@model List<DataModel.RisSeviyesi>
+@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-12">
+        <h4>Yeni Hastalık Tanımlama</h4>
+        <form method="post" action="/Unvan/HastalikEkle">
+
+            <label>Hastalık Adı:</label>
+            <input type="text" class="form-control" name="Ad" placeholder="Hastalık adı giriniz." />
+
+            <label>Kısa Ad:</label>
+            <input type="text" class="form-control" name="KisaAd" placeholder="Kısa adı giriniz" />
+
+            <label>Hastalık Kodu:</label>
+            <input name="Kodu" type="text" class="form-control" placeholder="Hastalık kodunu giriniz" />
+
+            <label>Risk Seviyesi:</label>
+            <select name="RiskSeviyesiNo">
+                @foreach (var risk in Model)
+                {
+                    <option value="@risk.No">@risk.Ad</option>
+                }
+                @*<option value="1">Düşük Seviye</option>
+                <option value="2">Orta Seviye</option>
+                <option value="3">Yüksek Risk</option>
+                <option value="4">Çok Yüksek Risk</option>*@
+            </select>
+
+
+            <button type="submit" class="btn btn-success" >Ekle</button>
+        </form>
+
+    </div>
+</div>

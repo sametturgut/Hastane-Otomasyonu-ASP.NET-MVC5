@@ -1,0 +1,58 @@
+﻿@model List<DataModel.Hastalik>
+
+@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col">
+
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>No</th>
+                    <th>Hastalık Adı</th>
+                    <th>Kısaltma</th>
+                    <th>Kodu</th>
+                    <th>Risk Seviyesi</th>
+                    <th>Teşhis Sayısı</th>
+                    <th>Silme İşlemi</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var hastalik in Model)
+                {
+                    <tr>
+                        <td>@hastalik.No</td>
+                        <td>
+                            <a href="/Unvan/HastalikGuncelle/@hastalik.No">@hastalik.Ad</a>
+                      
+                        
+                        </td>
+                        <td>@hastalik.KisaAd</td>
+                        <td>@hastalik.Kodu</td>
+                        <td>@hastalik.RisSeviyesi.Ad</td>
+                        <td>@hastalik.Teshis.Count</td>
+                        <td>
+                            <form method="post" action="/Unvan/HastalikSil">
+                                <input type="hidden" name="HastalikNo" value="@hastalik.No" />
+                                <button type="submit" class="btn btn-danger">SİL</button>
+                                
+                            </form>
+                            
+                        </td>
+                        @*<td>
+                            <form method="post" accept-charset="/Unvan/HastalikGuncelle">
+                                <input type="hidden" name="HastalikNo" value="@hastalik.No" />
+                                <button type="submit" class="btn btn-primary">GÜNCELLE</button>
+                            </form>
+                        </td>*@
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+
+</div>

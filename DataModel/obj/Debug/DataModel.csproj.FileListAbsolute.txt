@@ -1,0 +1,24 @@
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\bin\Debug\DataModel.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\bin\Debug\DataModel.pdb
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\obj\Debug\DataModel.csprojAssemblyReference.cache
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\obj\Debug\DataModel.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\DataModel\obj\Debug\DataModel.pdb
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\bin\Debug\DataModel.dll.config
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\bin\Debug\DataModel.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\bin\Debug\DataModel.pdb
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\bin\Debug\EntityFramework.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\bin\Debug\EntityFramework.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\obj\Debug\DataModel.csproj.AssemblyReference.cache
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\obj\Debug\DataModel.csproj.CoreCompileInputs.cache
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\obj\Debug\DataModel.csproj.CopyComplete
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\obj\Debug\DataModel.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\DataModel\obj\Debug\DataModel.pdb

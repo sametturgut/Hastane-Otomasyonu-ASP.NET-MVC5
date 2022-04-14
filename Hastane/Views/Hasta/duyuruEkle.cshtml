@@ -1,0 +1,22 @@
+﻿@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-6">
+
+        <form method="post" action="/Hasta/DuyuruEkle">
+            <label for="Tarih">Duyuru Tarihi: </label>
+            <input id="Tarih" type="date" name="YayinTarihi" class="form-control"/>
+            <input type="text" name="Baslik" class="form-control"  placeholder="Duyuru başlığını giriniz."/>
+            <input type="text" name="Ozet" class="form-control" placeholder="Duyuru Özetini Giriniz"/>
+            <textarea name="Metin" class="form-control" placeholder="Duyuru Metnini Giriniz"> </textarea>   
+
+            <input type="submit" value="Kaydet" class="btn btn-primary"/>
+
+        </form>
+
+    </div>
+
+</div>

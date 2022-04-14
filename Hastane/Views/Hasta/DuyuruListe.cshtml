@@ -1,0 +1,27 @@
+﻿@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+@model List<Hastane.Models.Duyuru>
+@{
+
+    int duyuruSayisi = Model.Count;
+    
+
+ }
+
+<div class="row">
+
+    <h3>@duyuruSayisi Adet Duyuru Listeleniyor</h3>
+    @foreach (var duyuru in Model)
+    {
+        <div class="col-md-12">
+            <h4>@duyuru.Baslik</h4>
+            <p>@duyuru.YayinTarihi</p>
+            <p>@duyuru.Ozet</p>
+        </div>
+    }
+
+ 
+
+</div>

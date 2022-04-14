@@ -1,0 +1,132 @@
+﻿body {
+    font-family:sans-serif;
+}
+
+.baslik{
+    margin-left:10%;
+    margin-right:10%;
+    border-top-style:solid;
+    border-top-color:blue;
+    height:140px;
+}
+
+.icBaslik{
+    width:100%;
+    height:30px;
+    border-bottom-style:solid;
+    border-bottom-color:gray;
+    border-bottom-width:1px;
+    text-align:right;
+    padding:2px;
+}
+
+.logoDiv{
+  /*  border-style:solid;*/
+    width:60%;
+    padding:3px;
+    float:left;
+    height:100px;
+}
+
+.aramaDiv{
+  /*  border-style:solid;*/
+    width:37%;
+    padding:3px;
+    float:right;
+    height:100px;
+}
+
+.aramaDiv >input{
+    border-radius:15px;
+    width:150px;
+    margin-top:60px;
+    height:30px;
+}
+
+.logoDiv >img{
+    margin-top:10px;
+    max-height:80px;
+    float:left;
+}
+
+.logoDiv >h2{
+    padding:10px;
+    margin-top:25px;
+    color:gray;
+    font-size:25px;
+    font-weight:500;
+}
+
+.menuDiv{
+    background-color:skyblue;
+    width:100%;
+    height:40px;
+    padding:5px;
+}
+
+#logoDiv >img{
+    float:left;
+}
+
+#logoDiv >h4{
+    margin-top:30px;
+}
+
+/*#duyuruDiv{
+    border-style:solid;
+    border-width:1px;
+}
+
+#resimDiv {
+    border-style: solid;
+    border-width: 1px;
+}*/
+
+.cerceve {
+    border-style: solid;
+    border-width: 1px;
+}
+
+@media (min-width:375px) and (max-width:950px) {
+
+    .menuDiv {
+        background-color:brown;
+        width: 100%;
+        height: 10px;
+        padding: 5px;
+    }
+
+    .logoDiv > h2 {
+        padding: 5px;
+        margin-top: 5px;
+        color: gray;
+        font-size: 12px;
+        font-weight: 500;
+    }
+
+    .aramaDiv {
+        /*  border-style:solid;*/
+        width: 35%;
+        padding: 3px;
+        float: right;
+        height: 100px;
+    }
+
+
+        .aramaDiv > input {
+            border-radius: 5px;
+            width: 120px;
+            margin-top: 5px;
+            height: 25px;
+        }
+
+    .logoDiv > img {
+        margin-top: 5px;
+        max-height: 40px;
+        float: left;
+    }
+}
+
+
+
+

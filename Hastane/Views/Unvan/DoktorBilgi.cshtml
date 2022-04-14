@@ -1,0 +1,39 @@
+﻿@model DataModel.Doktor
+
+@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col-md-12">
+
+        <h4>@Model.Unvan.Ad @Model.Kullanici.Ad @Model.Kullanici.Soyad</h4>
+
+        <h5>@Model.Bolum.Ad</h5>
+
+        <table class="table table-striped">
+
+            <tbody>
+                @foreach (var muayene in Model.Muayene.ToList())
+                {
+                    <tr>
+                        <td>
+                            @muayene.Tarih
+                        </td>
+                        <td>
+                            @muayene.Kullanici.Ad @muayene.Kullanici.Soyad
+                        </td>
+                        <td>@muayene.Bolum.Ad</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+       
+
+
+
+    </div>
+
+</div>

@@ -1,0 +1,44 @@
+﻿body {
+        background-color:#ccc;
+}
+
+div {
+    border-style: solid;
+    border-width: 1px;
+    border-color: gray;
+    margin: 2px;
+    padding: 2px;
+}
+
+label {
+    padding:2px;
+}
+
+burak {
+    color: red;
+    font-size: 18px;
+    padding: 5px;
+    border-style: dotted;
+    border-color: blue;
+}
+
+.yesilYazi {
+    color: green;
+    padding: 3px;
+    margin: 5px;
+    font-family: Tahoma;
+}
+
+td, th {
+    border-style: solid;
+    border-width: 1px;
+    border-color: aquamarine;
+}
+
+#metinElemanlari {
+    border-style: double;
+    border-color: orangered;
+    text-align: center;
+    color: chocolate;
+    margin: 10px;
+}

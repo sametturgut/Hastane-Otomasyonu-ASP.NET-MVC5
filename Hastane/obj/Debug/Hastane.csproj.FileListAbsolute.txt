@@ -1,0 +1,230 @@
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Hastane.dll.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Hastane.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Hastane.pdb
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csc.exe
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csc.exe.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csc.rsp
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csi.exe
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csi.exe.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csi.rsp
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.AppContext.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Console.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.IO.Compression.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Net.Http.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.ValueTuple.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\vbc.exe
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\vbc.exe.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\vbc.rsp
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\VBCSCompiler.exe
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Helpers.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Mvc.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Razor.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.Razor.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Razor.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.Razor.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Helpers.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Mvc.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.csproj.CopyComplete
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Hastane.dll.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Hastane.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Hastane.pdb
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csc.exe
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csc.exe.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csc.rsp
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csi.exe
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csi.exe.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\csi.rsp
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.AppContext.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Console.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.IO.Compression.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Net.Http.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Net.Sockets.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.ValueTuple.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\vbc.exe
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\vbc.exe.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\vbc.rsp
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\VBCSCompiler.exe
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Helpers.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Mvc.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Razor.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.Deployment.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.Razor.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Razor.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.Deployment.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Webpages.Razor.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Helpers.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\System.Web.Mvc.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.csprojAssemblyReference.cache
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.csproj.CopyComplete
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\obj\Debug\Hastane.pdb
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\DataModel.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\EntityFramework.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\EntityFramework.SqlServer.dll
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\DataModel.pdb
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\DataModel.dll.config
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\EntityFramework.xml
+C:\Users\HPELITEBOOK840\Desktop\Uzaktan Eğitim Dersler\İnternet Programcılığı\Projeler\NO\Hastane\Hastane\bin\EntityFramework.SqlServer.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\Hastane.dll.config
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\Hastane.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\Hastane.pdb
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\csc.exe
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\csc.exe.config
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\csc.rsp
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\csi.exe
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\csi.exe.config
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\csi.rsp
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.AppContext.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Console.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.IO.Compression.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Net.Http.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Net.Sockets.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.ValueTuple.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Xml.XPath.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\vbc.exe
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\vbc.exe.config
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\vbc.rsp
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\VBCSCompiler.exe
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\DataModel.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\EntityFramework.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\EntityFramework.SqlServer.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Helpers.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Mvc.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Razor.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Webpages.Deployment.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Webpages.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Webpages.Razor.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\DataModel.pdb
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\DataModel.dll.config
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\EntityFramework.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\EntityFramework.SqlServer.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Razor.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Webpages.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Webpages.Deployment.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Webpages.Razor.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Helpers.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\System.Web.Mvc.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\obj\Debug\Hastane.csproj.AssemblyReference.cache
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\obj\Debug\Hastane.csproj.CoreCompileInputs.cache
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\obj\Debug\Hastane.csproj.CopyComplete
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\obj\Debug\Hastane.dll
+C:\Users\samet\Downloads\UZEM\3. Sınıf 1. Dönem\İnternet ve Web Programlama\Örnek proje\NO\Hastane\Hastane\obj\Debug\Hastane.pdb

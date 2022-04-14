@@ -1,0 +1,40 @@
+﻿@model List<DataModel.Doktor>
+@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+<div class="row">
+    <div class="col-md-12">
+
+        <table class="table table-striped">
+            <tbody>
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Unvan</th>
+                        <th>Ad</th>
+                        <th>Soyad</th>
+                        <th>SicilNo</th>
+                        <th>Bölüm</th>
+                    </tr>
+                </thead>
+
+                @foreach (var doktor in Model)
+                {
+                    <tr>
+                        <td>@doktor.No</td>
+                        <td>@doktor.Unvan.Ad</td>
+                        <td>@doktor.Kullanici.Ad</td>
+                        <td>@doktor.Kullanici.Soyad</td>
+                        <td>@doktor.SicilNo</td>
+                        <td>@doktor.Bolum.Ad</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+
+</div>
+
+

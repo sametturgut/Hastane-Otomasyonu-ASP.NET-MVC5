@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hastane", "Hastane\Hastane.csproj", "{8C2F0EF4-1538-488B-A346-64D3AE5DD716}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataModel", "DataModel\DataModel.csproj", "{3D353122-2797-4831-98E5-1C7B0A06C87F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C2F0EF4-1538-488B-A346-64D3AE5DD716}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2F0EF4-1538-488B-A346-64D3AE5DD716}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2F0EF4-1538-488B-A346-64D3AE5DD716}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2F0EF4-1538-488B-A346-64D3AE5DD716}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D353122-2797-4831-98E5-1C7B0A06C87F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D353122-2797-4831-98E5-1C7B0A06C87F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D353122-2797-4831-98E5-1C7B0A06C87F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D353122-2797-4831-98E5-1C7B0A06C87F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A999E0C2-4A2E-4A53-8EA4-05A58A2741DB}
+	EndGlobalSection
+EndGlobal

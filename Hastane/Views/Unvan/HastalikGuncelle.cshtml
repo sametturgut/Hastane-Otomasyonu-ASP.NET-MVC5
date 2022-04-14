@@ -1,0 +1,45 @@
+﻿@model Hastane.Models.HastalikGuncelle
+
+@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+
+<div class="row">
+    <div class="col">
+        <form method="post" action="/Unvan/HastalikGuncelle">
+            <input type="hidden" name="No" value="@Model.Hastalik.No" />
+
+            <label>Hastalık Adı:</label>
+            <input type="text" value="@Model.Hastalik.Ad" name="Ad" class="form-control" />
+
+            <label>Kisa Ad</label>
+            <input type="text" name="KisaAd" value="@Model.Hastalik.KisaAd" class="form-control" />
+            
+            <label>Hastalık Kodu</label>
+            <input type="text" name="Kodu" value="@Model.Hastalik.Kodu" class="form-control"  />
+
+            <label>Risk Seviyesi</label>
+
+            <select name="RiskSeviyesiNo" class="form-control" >
+
+                @foreach (var risk in Model.RiskSeviyesiListe)
+                {
+                    if (risk.No==Model.Hastalik.RiskSeviyesiNo)
+                    {
+                        <option selected value="@risk.No">@risk.Ad</option>
+                    }
+                    else
+                    {
+                        <option value="@risk.No">@risk.Ad</option>
+                    }
+                    
+                }
+
+            </select>
+
+            <button type="submit" class="btn btn-primary">GÜNCELLE</button>
+        </form>
+    </div>
+
+</div>

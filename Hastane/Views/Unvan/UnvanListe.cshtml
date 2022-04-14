@@ -1,0 +1,38 @@
+﻿@model List<DataModel.Unvan>
+
+@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Ad</th>
+                        <th>Kısa Ad</th>
+                        <th>Personel Sayısı</th>
+                    </tr>
+                </thead>
+                <tbody>
+
+                    @foreach (var unvan in Model)
+                    {
+                        
+                        <tr>
+                            <td>@unvan.No</td>
+                            <td>@unvan.Ad</td>
+                            <td>@unvan.KisaAd</td>
+                            <td>@unvan.Doktor.Count</td>
+                        </tr>
+                    }                                      
+
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+</div>

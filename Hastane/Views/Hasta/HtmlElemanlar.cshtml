@@ -1,0 +1,126 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+
+
+    <head>
+        <meta name="viewport" content="width=device-width" />
+        <title>Ana Sayfa</title>
+
+        @*Buraya yazdığımız şeyler yorum satırıdır. *@
+     <link href="~/CSS/site.css" rel="stylesheet" />
+    </head>
+
+    <body style="font-family:sans-serif; ">
+        
+        <div style="color: blue; font-size: 25px;">
+          <h1>Merhaba View dosyası</h1>
+          <h2>İkinci derece başlık</h2>
+          <h4>dördüncü derece başlık</h4>
+          <h6>Altıncı derece başlık</h6>
+        </div>
+
+        <div id="metinElemanlari">
+            <p class="yesilYazi">Paragraf yazmak için kullanılır. </p>
+            <p>İki p etiketi yan yana durmaz</p>
+            <label class="yesilYazi">Label etiketi metin yazmak için kullanılır.</label>
+            <label>Label etiketler yan yana durur.</label>
+            <span>Span etiketi metin yazmak için kullanılır.</span>
+            <span class="yesilYazi">metin içinde <b>vurgulu</b>  kısımlar. </span>
+        </div>
+        <div>
+            <form>
+                <input type="text" placeholder="İpucu buraya yazılır.(505)123 25 25" />
+                <input type="date" />
+                <input type="datetime" />
+                <input type="color" />
+                <input type="password" placeholder="parola yazınız." />
+                <input type="month" />
+                <input type="submit" value="Formu Gönder" />
+                <input type="week" />
+            </form>
+
+        </div>
+        <div>
+            <select>
+                <option>Ankara</option>
+                <option>İstanbul</option>
+                <option>Bakü</option>
+                <option>Hakkari</option>
+            </select>
+
+            <ul>
+                <li>Liste elemanı</li>
+                <li>Bir başka liste elemanı</li>
+                <li>Üçüncü liste elemanı</li>
+            </ul>
+
+            <ol>
+                <li>birinci eleman</li>
+                <li class="yesilYazi">İkinci elemanı</li>
+                <li>Üçüncü elamah</li>
+            </ol>
+
+        </div>
+        <div>
+            <button>Kaydet</button>
+            <input type="button" value="Gönder" />
+
+            <input type="radio" title="Matematik" value="Matematik" name="ders"/><label>Matematik</label>
+            <input type="radio" title="Türkçe" value="Türkçe" name="ders"/><label>Türkçe</label>
+
+            <input type="number" placeholder="sadece sayı girebilirsinz" />
+            <input type="checkbox" name="secim" multiple/><label>İnternet Programlama</label>
+            <input type="checkbox" name="secim" multiple/><label>Pazarlama İlkeleri</label>
+        </div>
+
+        <div>
+            <burak>
+                Merhaba burak. Bu etiket sana özeldir
+            </burak>
+
+            <sefanur>İyisin sefanur</sefanur>
+        </div>
+
+        <div>
+            <table cellpadding="5">
+                <thead>
+                    <tr>
+                        <td>Numara</td>
+                        <td>Ad</td>
+                        <td>Soyad</td>
+                        <td>Adres İli</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>10</td>
+                        <td class="yesilYazi">Burak</td>
+                        <td>Acaroğlu</td>
+                        <td>Bayburt</td>
+                    </tr>
+                    <tr>
+                        <td>11</td>
+                        <td>Batuhan</td>
+                        <td>Yalın</td>
+                        <td>Bursa</td>
+                    </tr>
+                    <tr>
+                        <td>12</td>
+                        <td>Sefanur</td>
+                        <td>Pınar</td>
+                        <td>Sivas</td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </div>
+
+    </body>
+
+
+</html>

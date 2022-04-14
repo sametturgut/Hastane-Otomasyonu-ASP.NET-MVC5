@@ -1,0 +1,25 @@
+﻿@{
+    Layout = "~/Views/Shared/siteLayout.cshtml";
+}
+
+
+<div class="row">
+
+    <div class="col-md-12">
+        <form action="/Randevu/RandevuEkle" method="post">
+            <label>Doktor Seçimi</label>
+            <select name="DoktorNo">
+                <option value="1">Doktor Ad Soyad</option>
+                <option value="2">Doktor2 Ad Soyad</option>
+                <option value="3">Doktor3 Ad Soyad</option>
+            </select>
+
+            <label>Tarih:</label>
+            <input type="date" name="Tarih" />
+
+            <button type="submit" class="btn btn-success">Randevu Kaydet</button>
+        </form>
+
+    </div>
+
+</div>
